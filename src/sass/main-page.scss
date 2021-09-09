@@ -1,0 +1,35 @@
+body {
+    position: relative;
+    background-color: white;
+}
+
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+.list {
+    display: block;
+    margin-left: 300px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.list-item{
+    display: flex;
+}
+
+
+.link {
+    text-decoration: none;
+}
+
+
+.main-page_link {
+    color: yellowgreen;
+    font-size: 20px;
+}
