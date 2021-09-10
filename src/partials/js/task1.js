@@ -12,9 +12,9 @@ const colors = [
 ];
 
 const startBtn = document.querySelector('[data-action="start"]')
-console.log(startBtn)
+
 const stopBtn = document.querySelector('[data-action="stop"]')
-console.log(stopBtn)
+
 
 let timeoutId = null;
 

@@ -46,5 +46,4 @@ function updateTimer ({ days, hours, mins, secs }) {
     refs.timerDays.textContent = `${days}`
     refs.timerHours.textContent = `${hours}`
     refs.timerMins.textContent = `${mins}`
-    refs.timerSecs.textContent = `${secs}`
-}
+    refs.timerSecs.textContent = `${secs}`}
